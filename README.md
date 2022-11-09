@@ -13,7 +13,7 @@ Cari Jung • DH110 • Fall 2022
 
 <img src=colorlight1.png width="500" height="1000"> <img src=colorlight2.png width="500" height="1000"> 
 
-![Frame 5](https://user-images.githubusercontent.com/114601962/200786151-e5e7135d-1727-481d-9617-a7ff7d1d2946.png)
+![Frame 5 (1)](https://user-images.githubusercontent.com/114601962/200786500-8b30b58f-ddf4-4cf7-b20c-aa2165780310.png)
 
 ### Dark Mode
 
