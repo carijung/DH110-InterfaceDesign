@@ -18,7 +18,11 @@ Cari Jung • DH110 • Fall 2022
 
 
 
+![Color Var - Dark](https://user-images.githubusercontent.com/114601962/200779831-89a84d3d-6978-4141-a0ab-74073354a250.png) ![Color Var - Light](https://user-images.githubusercontent.com/114601962/200779855-dc8d666d-8df9-4857-8edb-eb872afc84af.png)
 
+![Color Var - Light](https://user-images.githubusercontent.com/114601962/200779855-dc8d666d-8df9-4857-8edb-eb872afc84af.png)
+![Color Var - Dark-1](https://user-images.githubusercontent.com/114601962/200779872-71e3f69c-fe1e-410d-a021-23750c05c7a8.png)
+![Color Var - Light-1](https://user-images.githubusercontent.com/114601962/200779895-215cdd5d-df76-4cc0-8d87-7322465b0b58.png)
 
 
 ## Impression Test
