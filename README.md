@@ -16,8 +16,8 @@ Cari Jung • DH110 • Fall 2022
 ### Shape Variations
 #### Light Mode
 
-<img src=colorlight1.png width="500" height="950"> <img src=colorlight2.png width="500" height="950"> 
-<img src=colordark1.png width="405" height="900"> <img src=colordark2.png width="405" height="900"> 
+<img src=colorlight1.png width="500" height="1000"> <img src=colorlight2.png width="500" height="1000"> 
+<img src=colordark1.png width="500" height="1000"> <img src=colordark2.png width="500" height="1000"> 
 
 
 
