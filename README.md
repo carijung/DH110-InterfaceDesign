@@ -9,7 +9,7 @@ With a goal of desiging a digital product that can help users of any demographic
 This part of my design journey was filled with trial and errors which helped me achieve the best color combinations and learn what must be taken into account when designing. For example, I had to reiterate the process of using Spark to check my color combination ratios. Fter trying many color combinations, I realized that getting rid of certain colors actually helped with visibility and made the website less overwhelming. 
 
 Below is my finalized example wireframe of the "Sustainability Development Goals" page:
-![Frame 5 (1)](https://user-images.githubusercontent.com/114601962/200786500-8b30b58f-ddf4-4cf7-b20c-aa2165780310.png)
+<img src=colorlight2.png width="500" height="1000"> 
 Visit [FIGMA](https://www.figma.com/file/gTwb96tdKplqCCZZaMCdSt/Untitled?node-id=0%3A1&t=GuQ7lJtITMpnKKdZ-1) to explore my entire design process. 
 
 ### About the Purpose of Interface Design
