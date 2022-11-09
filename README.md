@@ -54,10 +54,10 @@ The purpose of interface design is to digitize and make our low-fidelity prototy
 
 
 ## Impression Test (5 seconds)
-
+!! I could not find a user to conduct an impression test but I have created a mock test that I would've asked a young adult peer!!
 ![Screenshot (61)](https://user-images.githubusercontent.com/114601962/200809671-36ff4968-eddf-4f43-81d9-c0b1c8d9f22d.png)
 
-> I conducted a 5 second impression test with my friend and the overall feedbacks were positive. I didn't explicitly ask about the buttons to test the visibility and it turned out that the design of the buttons were suggessful. 
+> (my potential comment) I didn't explicitly ask about the buttons to test the visibility, but turns out the design of the buttons were successful. 
 
 ## Accessibility (color-contrast) check
 
