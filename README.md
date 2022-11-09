@@ -5,6 +5,7 @@ Cari Jung • DH110 • Fall 2022
 
 # Screen Design
 ## Layout
+<img src=layc.png width="500" height="1000"> <img src=layr.png width="500" height="1000"> 
 
 ## Color Schemes
 ### Light Mode
