@@ -10,6 +10,7 @@ This part of my design journey was filled with trial and errors which helped me 
 
 Below is my finalized example wireframe of the "Sustainability Development Goals" page:
 <img src=colorlight2.png width="500" height="1000"> 
+
 Visit [FIGMA](https://www.figma.com/file/gTwb96tdKplqCCZZaMCdSt/Untitled?node-id=0%3A1&t=GuQ7lJtITMpnKKdZ-1) to explore my entire design process. 
 
 ### About the Purpose of Interface Design
