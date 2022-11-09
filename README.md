@@ -53,7 +53,12 @@ The purpose of interface design is to digitize and make our low-fidelity prototy
 ![shape](https://user-images.githubusercontent.com/114601962/200785473-baf90fc7-31c4-4e1c-a0e2-79f2c086b5c8.png)
 
 
-## Impression Test
+## Impression Test (5 seconds)
+
+
+![impressiontest](https://user-images.githubusercontent.com/114601962/200808393-8439252e-a175-418f-93e1-ab078fcd66c4.png)
+
+> I conducted a 5 second impression test with my friend and the overall feedbacks were positive. They liked how One thing I would chamge is asking about the 
 
 ## Accessibility (color-contrast) check
 
