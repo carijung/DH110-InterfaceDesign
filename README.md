@@ -55,8 +55,7 @@ The purpose of interface design is to digitize and make our low-fidelity prototy
 
 ## Impression Test (5 seconds)
 
-
-![impressiontest](https://user-images.githubusercontent.com/114601962/200808393-8439252e-a175-418f-93e1-ab078fcd66c4.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/114601962/200809671-36ff4968-eddf-4f43-81d9-c0b1c8d9f22d.png)
 
 > I conducted a 5 second impression test with my friend and the overall feedbacks were positive. They liked how One thing I would chamge is asking about the 
 
