@@ -43,7 +43,9 @@ Cari Jung • DH110 • Fall 2022
 
 ## Accessibility (color-contrast) check
 
+![Frame 3](https://user-images.githubusercontent.com/114601962/200789708-6c194b5f-39d2-466b-a348-c6202037db22.png)
 
+![Frame 2](https://user-images.githubusercontent.com/114601962/200789722-13865edc-f0fd-43d7-b271-92278aa5724f.png)
 
 ## Design System
 
