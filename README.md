@@ -61,7 +61,7 @@ Cari Jung • DH110 • Fall 2022
 
 ## Shape Variations
 
-> Instead of making the sustainability goals icons a flat image, I applied a 20 pixel radius that rounded the corners but to a certain extent that a square shape was maintained. I wanted to keep the rectangle/square shape consistent throughout my prototype. I also added a shadow to emphasize the clickability and make the icons resemble a button. 
-
+> Instead of making the sustainability goals icons a flat image, I applied a 20 pixel radius that rounded the corners but to a certain extent that a square shape was maintained. I wanted to keep the rectangle/square shape consistent throughout my prototype. I also added a shadow to emphasize the clickability and make the icons resemble a button. I didn't choose to apply a radius of 40 pixels because the text of the icons would be cropped and it would've made an ambiguous shape of something between a circle and a square. 
+ 
 ## Layout
-For the layout, I made 6 columns with type 'stretch', with a margin of 172 pixels, and a 20 pixel gutter. This ensured that the elements wouldn't be full screen and overwhelm any users and making them zoom out or scroll endlessly to reach the end of the page. These columns also created six columns for where the icons of the sustainability goals would be placed. Furthermore, I only added 3 rows with type 'top', a height of 166 pixels, an offset of 1455 pixels, and a gutter of 23 pixels that overlapped with the column layouts and created a square where each individual icon could be placed.  
+> For the layout, I made 6 columns with type 'stretch', with a margin of 172 pixels, and a 20 pixel gutter. This ensured that the elements wouldn't be full screen and overwhelm any users and making them zoom out or scroll endlessly to reach the end of the page. These columns also created six columns for where the icons of the sustainability goals would be placed. Furthermore, I only added 3 rows with type 'top', a height of 166 pixels, an offset of 1455 pixels, and a gutter of 23 pixels that overlapped with the column layouts and created a square where each individual icon could be placed.  
