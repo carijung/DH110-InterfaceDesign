@@ -13,13 +13,13 @@ Cari Jung • DH110 • Fall 2022
 
 <img src=colorlight1.png width="500" height="1000"> <img src=colorlight2.png width="500" height="1000"> 
 
-![Frame 4](https://user-images.githubusercontent.com/114601962/200786106-1bec8bc9-aecc-46e2-9afd-0c86a841b317.png)
+![Frame 5](https://user-images.githubusercontent.com/114601962/200786151-e5e7135d-1727-481d-9617-a7ff7d1d2946.png)
 
 ### Dark Mode
 
 <img src=colordark1.png width="500" height="1000"> <img src=colordark2.png width="500" height="1000"> 
 
-![Frame 5](https://user-images.githubusercontent.com/114601962/200786151-e5e7135d-1727-481d-9617-a7ff7d1d2946.png)
+![Frame 4](https://user-images.githubusercontent.com/114601962/200786106-1bec8bc9-aecc-46e2-9afd-0c86a841b317.png)
 
 ## Typographic Variations
 ![Frame 6](https://user-images.githubusercontent.com/114601962/200778470-dbd45e45-3d8e-4866-982f-544f6990c7ee.png)
