@@ -11,6 +11,8 @@ Cari Jung • DH110 • Fall 2022
 ## Color Schemes
 ### Light Mode
 
+> I wanted to test two options: green buttons or blue buttons. I found that the blue button would be a better choice because it is the website's core color and the color green seems to be redundant throughout the page.
+
 <img src=colorlight1.png width="500" height="1000"> <img src=colorlight2.png width="500" height="1000"> 
 
 ![Frame 5 (1)](https://user-images.githubusercontent.com/114601962/200786500-8b30b58f-ddf4-4cf7-b20c-aa2165780310.png)
@@ -22,6 +24,8 @@ Cari Jung • DH110 • Fall 2022
 ![Frame 4](https://user-images.githubusercontent.com/114601962/200786106-1bec8bc9-aecc-46e2-9afd-0c86a841b317.png)
 
 ## Typographic Variations
+> The font Nunito was the best option because it maintained professionality and the rounded letters seemed to radiate kindness/friendliness that would make user's feel welcomed to read or unhesitant. Also, it's minimality made it legible especially because the letters were nicely spaced out. Even when I applied this font throughout my prototype, it wasn't burdening to the eye.
+
 ![Frame 6](https://user-images.githubusercontent.com/114601962/200778470-dbd45e45-3d8e-4866-982f-544f6990c7ee.png)
 
 ![newnunito](https://user-images.githubusercontent.com/114601962/200788845-30f8e4c6-a768-47c4-addf-dcd9d0446c81.png)
