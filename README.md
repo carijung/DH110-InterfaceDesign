@@ -7,7 +7,6 @@ Cari Jung • DH110 • Fall 2022
 ## Layout
 
 ## Color Schemes
-
 ### Light Mode
 
 <img src=colorlight1.png width="500" height="1000"> <img src=colorlight2.png width="500" height="1000"> 
@@ -15,9 +14,6 @@ Cari Jung • DH110 • Fall 2022
 ### Dark Mode
 
 <img src=colordark1.png width="500" height="1000"> <img src=colordark2.png width="500" height="1000"> 
-
-
-
 
 ## Typographic Variations
 ![Frame 6](https://user-images.githubusercontent.com/114601962/200778470-dbd45e45-3d8e-4866-982f-544f6990c7ee.png)
