@@ -40,6 +40,8 @@ Cari Jung • DH110 • Fall 2022
 
 ## Shape Variations
 
+> Instead of making the sustainability goals icons a flat image, I applied a 20 pixel radius that rounded the corners but to a certain extent that a square shape was maintained. I wanted to keep the rectangle/square shape consistent throughout my prototype. I also added a shadow to emphasize the clickability and make the icons resemble a button. 
+
 ![shape](https://user-images.githubusercontent.com/114601962/200785473-baf90fc7-31c4-4e1c-a0e2-79f2c086b5c8.png)
 
 
