@@ -11,8 +11,6 @@ Cari Jung • DH110 • Fall 2022
 ## Color Schemes
 ### Light Mode
 
-> I wanted to test two options: green buttons or blue buttons. I found that the blue button would be a better choice because it is the website's core color and the color green seems to be redundant throughout the page.
-
 <img src=colorlight1.png width="500" height="1000"> <img src=colorlight2.png width="500" height="1000"> 
 
 ![Frame 5 (1)](https://user-images.githubusercontent.com/114601962/200786500-8b30b58f-ddf4-4cf7-b20c-aa2165780310.png)
@@ -24,7 +22,6 @@ Cari Jung • DH110 • Fall 2022
 ![Frame 4](https://user-images.githubusercontent.com/114601962/200786106-1bec8bc9-aecc-46e2-9afd-0c86a841b317.png)
 
 ## Typographic Variations
-> The font Nunito was the best option because it maintained professionality and the rounded letters seemed to radiate kindness/friendliness that would make user's feel welcomed to read or unhesitant. Also, it's minimality made it legible especially because the letters were nicely spaced out. Even when I applied this font throughout my prototype, it wasn't burdening to the eye.
 
 ![Frame 6](https://user-images.githubusercontent.com/114601962/200778470-dbd45e45-3d8e-4866-982f-544f6990c7ee.png)
 
@@ -40,8 +37,6 @@ Cari Jung • DH110 • Fall 2022
 
 ## Shape Variations
 
-> Instead of making the sustainability goals icons a flat image, I applied a 20 pixel radius that rounded the corners but to a certain extent that a square shape was maintained. I wanted to keep the rectangle/square shape consistent throughout my prototype. I also added a shadow to emphasize the clickability and make the icons resemble a button. 
-
 ![shape](https://user-images.githubusercontent.com/114601962/200785473-baf90fc7-31c4-4e1c-a0e2-79f2c086b5c8.png)
 
 
@@ -54,4 +49,19 @@ Cari Jung • DH110 • Fall 2022
 ![Frame 2](https://user-images.githubusercontent.com/114601962/200789722-13865edc-f0fd-43d7-b271-92278aa5724f.png)
 
 ## Design System
+> I chose to design the "Sustainable Development Goals" page. I made this choice because this page seemed to be hiding resourceful features like the interactive chart on the seventeen goals. I wanted this feature to be visible to the users the moment they navigated to this page since the title of the page implies that there would be goals. 
 
+## Typographic Variations
+> The font Nunito was the best option because it maintained professionality and the rounded letters seemed to radiate kindness/friendliness that would make user's feel welcomed to read or unhesitant. Also, it's minimality made it legible especially because the letters were nicely spaced out. Even when I applied this font throughout my prototype, it wasn't burdening to the eye.
+
+## Color Schemes
+### Light Mode
+
+> I wanted to test two options: green buttons or blue buttons. I found that the blue button would be a better choice because it is the website's core color and the color green seems to be redundant throughout the page.
+
+## Shape Variations
+
+> Instead of making the sustainability goals icons a flat image, I applied a 20 pixel radius that rounded the corners but to a certain extent that a square shape was maintained. I wanted to keep the rectangle/square shape consistent throughout my prototype. I also added a shadow to emphasize the clickability and make the icons resemble a button. 
+
+## Layout
+For the layout, I made 6 columns with type 'stretch', with a margin of 172 pixels, and a 20 pixel gutter. This ensured that the elements wouldn't be full screen and overwhelm any users and making them zoom out or scroll endlessly to reach the end of the page. These columns also created six columns for where the icons of the sustainability goals would be placed. Furthermore, I only added 3 rows with type 'top', a height of 166 pixels, an offset of 1455 pixels, and a gutter of 23 pixels that overlapped with the column layouts and created a square where each individual icon could be placed.  
